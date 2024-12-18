@@ -1,7 +1,3 @@
-
-
-markdown
-Copiar código
 # Password Generator
 
 A user-friendly and customizable password generator built with Python and Tkinter. This tool allows you to create secure passwords of varying lengths and character sets with an intuitive graphical user interface (GUI).
